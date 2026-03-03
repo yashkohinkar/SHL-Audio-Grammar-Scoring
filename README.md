@@ -15,7 +15,7 @@ A deep learning pipeline to automatically score the grammatical quality of spoke
 |---------|--------------------------|----------|
 | V1 | 0.752 | wav2vec2-base, basic pooling |
 | V6 | 0.806 | wav2vec2-large, multi-layer pooling, stacked ensemble |
-| V7 | In progress | + handcrafted features, 10-fold CV, SVR |
+| V7 | 0.457 | + handcrafted features, 10-fold CV, SVR |
 
 ---
 
